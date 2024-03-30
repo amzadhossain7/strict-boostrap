@@ -27,7 +27,7 @@ body{
         /* banner css start */
 
 .banner_section{
-    background-image: url(image/Strict.png);
+    background-image: url(../image/Strict.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
